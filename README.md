@@ -1,7 +1,7 @@
 ## Hi, I’m Alexander Lee
 - 👀 I’m interested in iOS development mostly
 - 🌱 I’m currently learning Swift
-- 🥅 2022 goals: to become strong middle iOS developer
+- 🥅 2022 goals: to become strong middle / senior iOS engineer
 - ⚡ Misc facts: Big fan of BJJ and other sport activities
 
 
